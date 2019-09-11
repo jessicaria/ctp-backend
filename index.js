@@ -1,5 +1,5 @@
 /*
-    información básica de las películas como, nombre, género, actores y descripción. Tu eres el encargado de diseñar la base de datos para esta app.
+    Base de datos de la app CriticaTuProfe
 */
 
 require('dotenv').config();
